@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b26e246b9b6c6685bd3ea28a88c6ce57e476a1e1">
+        <dex dex="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7957e6074092e5f6f3120c804340892a3d21d330.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_9168a679202b0763d5c3daba1f681cb93a692e45.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_940fa916d6f1128ec5889114469afd08b3f10b23.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7c9ec28f22251d7d79b0beecf60cde5e2bb99014">
+        <dex dex="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\pre-dexed\debug\instant-run_d47cac224164e3723d4e56a7e8951ebc286d6b46.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_d22e2a9b9f6a090d44f5be2ba42fc4d73d1e2b25.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_513edf67c216ba3562b1fb6889829c5769132706.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_872929b29cbd34948dcd3dcec3bff0ec43e36d03.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell  15\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\dell  15\AndroidStudioProjects\unifiedRemote\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_91590ab824b0618a11b8ce6cf85f7777ba0a9c7b.jar" />
+    </item>
+
+</items>
